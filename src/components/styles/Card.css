@@ -1,0 +1,25 @@
+.card {
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 20px;    
+}
+.Fitness-Card {    
+    max-width: 520px;    
+}
+.Fitness-Card-Info {    
+    padding-left: 0;
+    padding-right: 75px;
+}
+.Fitness-Card-Info h1{
+    font-size: 23px;
+    color: white;
+}
+.Fitness-Card-Info p{
+    font-size: 11px;
+    color: white;
+}
+h3
+{
+    font-size: 23px;
+}
