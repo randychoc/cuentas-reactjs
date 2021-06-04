@@ -1,2 +1,3 @@
-# cuentas-reactjs-mongodb
-Aplicación Web desarrollada con ReactJS y MongoDB, conectada con un API REST propia, que almacena cuentas. 
+# Cuentas - ReactJS
+
+Web application developed with ReactJS, connected to its own API Rest, which stores accounts.
